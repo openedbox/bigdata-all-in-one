@@ -1,0 +1,1 @@
+pls download related installation files from http://pan.baidu.com/s/1c0H6K9a to packages directory
